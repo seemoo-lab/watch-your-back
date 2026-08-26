@@ -1,0 +1,8 @@
+{
+    "name": "Apple Watch",
+    "address": "d4:10:9f:f1:b0:c2",
+    "keystore": "JsonKeyStore:watchkeys.json",
+    "le_privacy_enabled": true,
+    "clasic_enabled": false,
+    "advertising_interval": 50
+}
