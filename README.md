@@ -2,10 +2,10 @@
 
 Proof of concept for the Apple Watch impersonation attack presented in *Watch Your Back: Smartwatch Impersonation Attacks in Apple's iOS Ecosystem* published at NDSS 2027.
 
-> [Warning!]  
+> [!Warning]  
 > This is a proof of concept attack that extracts some information from a paired iPhone (iOS 18 or below). The code should therefore be considered malicious to some extent. Use with caution. All data obtained from the iPhone stays local and no destructive actions are performed.
 
-> [Note!]  
+> [!Note]  
 > For the accompanying app to generate and scan watch pairing codes, refer to the [Magic Code repo](https://github.com/seemoo-lab/magiccode).
 
 ## Installation
